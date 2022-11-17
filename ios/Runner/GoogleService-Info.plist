@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>154820593504-ma90ijbsi782t6n0j76fqfem1p8eo368.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.154820593504-ma90ijbsi782t6n0j76fqfem1p8eo368</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>154820593504-5mqdk2ld0g7vjm7hedhogbrndt2ghhov.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCH8IK6PfIZ3ZPzoxaIl_CfWc7cPAp-EI4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>154820593504</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.epiTracker</string>
+	<key>PROJECT_ID</key>
+	<string>worth-of-water-d4120</string>
+	<key>STORAGE_BUCKET</key>
+	<string>worth-of-water-d4120.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:154820593504:ios:1999b5bb441bcdb9ea0005</string>
+</dict>
+</plist>
